@@ -81,12 +81,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Engine\Blocks\AdjacentBlocks.cs" />
+    <Compile Include="Engine\Blocks\Block.cs" />
+    <Compile Include="Engine\Blocks\BlockType.cs" />
+    <Compile Include="Engine\Blocks\Zone.cs" />
+    <Compile Include="Engine\Collision\Circle.cs" />
+    <Compile Include="Engine\Collision\Line.cs" />
+    <Compile Include="Engine\Collision\Rectangle.cs" />
     <Compile Include="Engine\ContentManager.cs" />
     <Compile Include="Engine\Game.cs" />
     <Compile Include="Engine\Input.cs" />
     <Compile Include="Engine\Program.cs" />
     <Compile Include="Engine\ReferencedTexture.cs" />
     <Compile Include="Engine\Trig.cs" />
+    <Compile Include="Engine\WorldInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -32,3 +32,6 @@ C:\Users\MyMan\Dropbox\New folder\Backup\SFMLproject\BallGame\bin\x64\Debug\csfm
 C:\Users\MyMan\Dropbox\New folder\Backup\SFMLproject\BallGame\bin\x64\Debug\BallGame.exe
 C:\Users\MyMan\Dropbox\New folder\Backup\SFMLproject\BallGame\bin\x64\Debug\BallGame.pdb
 C:\Users\MyMan\Dropbox\New folder\Backup\SFMLproject\BallGame\obj\x64\Debug\BallGame.csprojResolveAssemblyReference.cache
+E:\Users\MyMan\Desktop\Projects\Jacot\Jacot\BallGame\obj\x64\Debug\BallGame.exe
+E:\Users\MyMan\Desktop\Projects\Jacot\Jacot\BallGame\obj\x64\Debug\BallGame.pdb
+E:\Users\MyMan\Desktop\Projects\Jacot\Jacot\BallGame\obj\x64\Debug\BallGame.csprojResolveAssemblyReference.cache
